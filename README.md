@@ -1,5 +1,5 @@
 
-# Testing with Chat-GPT4 to refactor Python code
+# Python Code Refactoring, Testing, and Documentation with ChatGPT4
 
 ![](https://raw.githubusercontent.com/aaronroman/gpt-coding-test/main/images/header.png)
 
