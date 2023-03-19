@@ -2,7 +2,7 @@ from dataclasses import dataclass
 from typing import List
 
 
-# Define la dataclass Car para almacenar la información de los coches
+# Defining the 'Car' dataclass to store car information
 @dataclass
 class Car:
     name: str
