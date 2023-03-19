@@ -1,7 +1,7 @@
 
 # Testing with Chat-GPT4 to refactor Python code
 
-![](E:\repositorios\gpt-refactor-test\images\header.png)
+![](images\header.png)
 
 ## Motivation
 
