@@ -7,7 +7,7 @@ if __name__ == '__main__':
     car1 = Car(name='Toyota', motor=['electric'], color='red', year=2015, mileage=10000, price=10000)
     car2 = Car(name='BMW', motor=['gas'], color='black', year=2017, mileage=20000, price=20000)
 
-    # Crea una instancia de EcoFriendlyChecker
+    # Define a EcoFriendlyChecker instance
     eco_friendly_checker = EcoFriendlyChecker()
 
     for car in [car1, car2]:
